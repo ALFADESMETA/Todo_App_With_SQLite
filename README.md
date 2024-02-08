@@ -1,2 +1,7 @@
-# Todo_App_With_SQLite
-An Offline Todo App built using SQLite DB
+# SQLite
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
